@@ -1,0 +1,149 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alt Alta Pano</title>
+    <style>
+        body {
+            background-color: #FA824C; /* Sarı arka plan rengi */
+            margin: 0; /* Sayfa kenar boşluğunu kaldır */
+            padding: 0; /* Sayfa içeriği boşluğunu kaldır */
+        }
+
+        /* Sol Panel Stilleri */
+        .left-panel {
+            width: 400px;
+            height: 80vh; /* Sayfa yüksekliği kadar olacak */
+            background-color: #2E5339; /* Beyaz renk */
+            color: #FFFFFF;
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Pano İçeriği Stilleri */
+        .dashboard-content {
+            display: flex;
+            flex-direction: column; /* İçerikleri dikey olarak sırala */
+            align-items: center; /* İçerikleri ortala */
+            width: calc(100% - 200px); /* Sayfa genişliği - sol panel genişliği */
+            padding: 20px;
+        }
+
+        /* Üst Panel Stilleri */
+        .top-panel {
+            width: 100%;
+            height: 160px;
+            background-color: #DCE2C8; /* Turuncu renk */
+            margin-bottom: 20px; /* Paneller arasına boşluk bırak */
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            color: #1c1c1c; /* Metin rengi */
+        }
+
+        /* Diğer Panel Stilleri */
+        .panel {
+            width: 100%;
+            height: 160px;
+            background-color: #DCE2C8; /* Panel arka plan rengi */
+            margin-bottom: 20px; /* Paneller arasına boşluk bırak */
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            color: #1c1c1c; /* Metin rengi */
+        }
+
+        /* Sol paneli sayfa soluna hizala */
+        .dashboard-container {
+            display: flex;
+        }
+
+        /* Sol panelin stili */
+        .left-panel-content {
+            display: flex;
+            flex-direction: column; /* İçerikleri dikey olarak sırala */
+            align-items: flex-start; /* İçerikleri sola hizala */
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="dashboard-container">
+        <!-- Sol Panel -->
+        <div class="left-panel">
+            <div class="small-panel">
+                <div class="small-panel-content">
+                   <ul>
+                       <li>
+                            <h5>Küçük Panel 1 Başlık</h5>
+                            <p>Burada küçük panel 1 içeriği yer alacak.</p>
+                       </li>
+                       <li>
+                            <p></p>
+                       </li>
+                       <li>
+                            <p></p>
+                        </li>
+                        <li>
+                            <p></p>
+                        </li>
+                        <li>
+                            <p></p>
+                        </li>
+                        <li>
+                            <p></p>
+                        </li>
+                   </ul> 
+                    
+                </div>
+            </div>
+        </div>
+
+        <!-- Pano İçeriği -->
+        <div class="dashboard-content">
+            <!-- Üst Panel -->
+            <div class="top-panel">
+                <h2>Üst Panel Başlık</h2>
+                <p>Burada üst panel içeriği yer alacak.</p>
+            </div>
+
+            <!-- Diğer Paneller -->
+            <!-- Panel 1 -->
+            <div class="panel">
+                <h2>Panel 1 Başlık</h2>
+                <p>Burada panel 1 içeriği yer alacak.</p>
+            </div>
+
+            <!-- Panel 2 -->
+            <div class="panel">
+                <h2>Panel 2 Başlık</h2>
+                <p>Burada panel 2 içeriği yer alacak.</p>
+            </div>
+
+            <!-- Panel 3 -->
+            <div class="panel">
+                <h2>Panel 3 Başlık</h2>
+                <p>Burada panel 3 içeriği yer alacak.</p>
+            </div>
+
+            <!-- Panel 4 -->
+            <div class="panel">
+                <h2>Panel 4 Başlık</h2>
+                <p>Burada panel 4 içeriği yer alacak.</p>
+            </div>
+
+            <!-- Diğer Paneller Buraya Eklenebilir -->
+        </div>
+    </div>
+</body>
+</html>
+
+

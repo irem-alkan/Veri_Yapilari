@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alkan\\OneDrive\\Masa\u00FCst\u00FC\\VeriYapilari\\WebApp_razoryok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{581C5DBA-2343-47C0-9E92-0861BEDB09CC}|WebApp_razoryok\\WebApp_razoryok.csproj|c:\\users\\alkan\\onedrive\\masa\u00FCst\u00FC\\veriyapilari\\webapp_razoryok\\webapp_razoryok\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{581C5DBA-2343-47C0-9E92-0861BEDB09CC}|WebApp_razoryok\\WebApp_razoryok.csproj|solutionrelative:webapp_razoryok\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581C5DBA-2343-47C0-9E92-0861BEDB09CC}|WebApp_razoryok\\WebApp_razoryok.csproj|c:\\users\\alkan\\onedrive\\masa\u00FCst\u00FC\\veriyapilari\\webapp_razoryok\\webapp_razoryok\\views\\home\\projelerim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{581C5DBA-2343-47C0-9E92-0861BEDB09CC}|WebApp_razoryok\\WebApp_razoryok.csproj|solutionrelative:webapp_razoryok\\views\\home\\projelerim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581C5DBA-2343-47C0-9E92-0861BEDB09CC}|WebApp_razoryok\\WebApp_razoryok.csproj|c:\\users\\alkan\\onedrive\\masa\u00FCst\u00FC\\veriyapilari\\webapp_razoryok\\webapp_razoryok\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{581C5DBA-2343-47C0-9E92-0861BEDB09CC}|WebApp_razoryok\\WebApp_razoryok.csproj|solutionrelative:webapp_razoryok\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581C5DBA-2343-47C0-9E92-0861BEDB09CC}|WebApp_razoryok\\WebApp_razoryok.csproj|c:\\users\\alkan\\onedrive\\masa\u00FCst\u00FC\\veriyapilari\\webapp_razoryok\\webapp_razoryok\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581C5DBA-2343-47C0-9E92-0861BEDB09CC}|WebApp_razoryok\\WebApp_razoryok.csproj|solutionrelative:webapp_razoryok\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581C5DBA-2343-47C0-9E92-0861BEDB09CC}|WebApp_razoryok\\WebApp_razoryok.csproj|c:\\users\\alkan\\onedrive\\masa\u00FCst\u00FC\\veriyapilari\\webapp_razoryok\\webapp_razoryok\\views\\proje\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{581C5DBA-2343-47C0-9E92-0861BEDB09CC}|WebApp_razoryok\\WebApp_razoryok.csproj|solutionrelative:webapp_razoryok\\views\\proje\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581C5DBA-2343-47C0-9E92-0861BEDB09CC}|WebApp_razoryok\\WebApp_razoryok.csproj|c:\\users\\alkan\\onedrive\\masa\u00FCst\u00FC\\veriyapilari\\webapp_razoryok\\webapp_razoryok\\controllers\\projecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581C5DBA-2343-47C0-9E92-0861BEDB09CC}|WebApp_razoryok\\WebApp_razoryok.csproj|solutionrelative:webapp_razoryok\\controllers\\projecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581C5DBA-2343-47C0-9E92-0861BEDB09CC}|WebApp_razoryok\\WebApp_razoryok.csproj|c:\\users\\alkan\\onedrive\\masa\u00FCst\u00FC\\veriyapilari\\webapp_razoryok\\webapp_razoryok\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{581C5DBA-2343-47C0-9E92-0861BEDB09CC}|WebApp_razoryok\\WebApp_razoryok.csproj|solutionrelative:webapp_razoryok\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alkan\\OneDrive\\Masa\u00FCst\u00FC\\VeriYapilari\\WebApp_razoryok\\WebApp_razoryok\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp_razoryok\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alkan\\OneDrive\\Masa\u00FCst\u00FC\\VeriYapilari\\WebApp_razoryok\\WebApp_razoryok\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApp_razoryok\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAADAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T20:16:29.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alkan\\OneDrive\\Masa\u00FCst\u00FC\\VeriYapilari\\WebApp_razoryok\\WebApp_razoryok\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp_razoryok\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\alkan\\OneDrive\\Masa\u00FCst\u00FC\\VeriYapilari\\WebApp_razoryok\\WebApp_razoryok\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp_razoryok\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T18:33:27.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "projelerim.cshtml",
+              "DocumentMoniker": "C:\\Users\\alkan\\OneDrive\\Masa\u00FCst\u00FC\\VeriYapilari\\WebApp_razoryok\\WebApp_razoryok\\Views\\Home\\projelerim.cshtml",
+              "RelativeDocumentMoniker": "WebApp_razoryok\\Views\\Home\\projelerim.cshtml",
+              "ToolTip": "C:\\Users\\alkan\\OneDrive\\Masa\u00FCst\u00FC\\VeriYapilari\\WebApp_razoryok\\WebApp_razoryok\\Views\\Home\\projelerim.cshtml",
+              "RelativeToolTip": "WebApp_razoryok\\Views\\Home\\projelerim.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T18:08:21.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alkan\\OneDrive\\Masa\u00FCst\u00FC\\VeriYapilari\\WebApp_razoryok\\WebApp_razoryok\\Views\\proje\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp_razoryok\\Views\\proje\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alkan\\OneDrive\\Masa\u00FCst\u00FC\\VeriYapilari\\WebApp_razoryok\\WebApp_razoryok\\Views\\proje\\Index.cshtml",
+              "RelativeToolTip": "WebApp_razoryok\\Views\\proje\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T18:03:42.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "projeController.cs",
+              "DocumentMoniker": "C:\\Users\\alkan\\OneDrive\\Masa\u00FCst\u00FC\\VeriYapilari\\WebApp_razoryok\\WebApp_razoryok\\Controllers\\projeController.cs",
+              "RelativeDocumentMoniker": "WebApp_razoryok\\Controllers\\projeController.cs",
+              "ToolTip": "C:\\Users\\alkan\\OneDrive\\Masa\u00FCst\u00FC\\VeriYapilari\\WebApp_razoryok\\WebApp_razoryok\\Controllers\\projeController.cs",
+              "RelativeToolTip": "WebApp_razoryok\\Controllers\\projeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T17:56:37.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\alkan\\OneDrive\\Masa\u00FCst\u00FC\\VeriYapilari\\WebApp_razoryok\\WebApp_razoryok\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApp_razoryok\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\alkan\\OneDrive\\Masa\u00FCst\u00FC\\VeriYapilari\\WebApp_razoryok\\WebApp_razoryok\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApp_razoryok\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:45:16.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\alkan\\OneDrive\\Masa\u00FCst\u00FC\\VeriYapilari\\WebApp_razoryok\\WebApp_razoryok\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApp_razoryok\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\alkan\\OneDrive\\Masa\u00FCst\u00FC\\VeriYapilari\\WebApp_razoryok\\WebApp_razoryok\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApp_razoryok\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-28T09:29:20.298Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
